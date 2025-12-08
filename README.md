@@ -8,6 +8,8 @@ A professional command-line tool for editing CSV files with both interactive men
 
 ```bash
 git clone https://github.com/kadavilrahul/csv-editor.git
+```
+```bash
 cd csv-editor
 ```
 
